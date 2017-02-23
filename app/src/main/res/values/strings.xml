@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyParcelable</string>
+    <string name="title_activity_show">ShowActivity</string>
+    <string name="funcionarios">Funcionários</string>
+</resources>
